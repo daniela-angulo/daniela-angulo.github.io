@@ -3,11 +3,11 @@ layout: default
 ---
 **What is this about?** This is a website to share my projects and thoughts related to teaching and ...
 
-## What do I do? Who am I? 
+# What do I do? Who am I? 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Research topics explained
+# Research topics explained
 
 ### How much time do photons spend in the excited state? 
 
@@ -17,7 +17,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-## Teaching
+# Teaching
 
 ### Statement of Teaching Philosophy
 

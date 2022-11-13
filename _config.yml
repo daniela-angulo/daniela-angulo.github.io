@@ -21,6 +21,7 @@
 title: I wonder
 email: dangulom@unal.edu.co
 description:
+show_downloads: true
 #baseurl: "/daniela-angulo.github.io" # the subpath of your site, e.g. /blog
 url: "https://github.com/daniela-angulo/daniela-angulo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

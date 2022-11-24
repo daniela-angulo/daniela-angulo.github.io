@@ -1,21 +1,27 @@
 ---
 layout: default
 ---
-**What is this about?** This is a website to share my projects and thoughts related to teaching and ...
+**What is this about?** This is a website to share my projects and thoughts related to physics and education. Maybe even cycling. 
 
 # What do I do? Who am I? 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I'm Daniela and I'm from Colombia. I do a PhD in experimental quantum optics and I guess I say this first because the PhD is what takes most of my time. 
+
+I also work as a high school teacher for grade 12. I teach physics to a small group of amazing kids. 
+
+I love sports and music. Cycling, swimming, running. Playing the guitar and singing. 
 
 # Research topics explained
+As a I said, I devote a lot of my time to studying quantum optics. I'll use this section to tell you about some research topics that interest me or my own research. 
+
+In our research group, we have to present a paper of our choice every three months or so to the rest of the group (journal club). I work with atoms and photons but photons are my biggest love so I usually take those presentations as an opportunity to talk about photonics research. 
+
+I must say that I used to have a lot of difficulties with these presentations for the first two years of my PhD. I wasn't able to grasp the big ideas of the subjects and didn't exactly know what questions to ask to clarify the things I didn't understand. But now I've got much better at it and my prof even congratulated me for asking 
+
 
 ### How much time do photons spend in the excited state? 
 
 ### Creating multimode non-Gaussian states
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 # Teaching
 

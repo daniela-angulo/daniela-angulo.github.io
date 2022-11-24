@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
+<!---
 **What is this about?** This is a website to share my projects and thoughts related to physics and education. Maybe even cycling. 
-
+-->
 # What do I do? Who am I? 
+
+This website is by no means complete, I'll keep working on it but it's an exciting project for me. 
 
 I'm Daniela and I'm from Colombia. I do a PhD in experimental quantum optics and I guess I say this first because the PhD is what takes most of my time. 
 
@@ -27,6 +30,11 @@ When a particle of light (a photon) travels through a cloud of atoms, it will me
 **Experiment:** Cartoon view of my experiment. 
 
 ### Creating multimode non-Gaussian states
+
+Ahh! Such beautiful work!
+They generate non-Gaussian states by applying the anhilation operator to a single mode of their complicated multimode state (generated with a frequency comb). They can remove a single photon in a mode-selective manner. 
+
+There is a lot to unpack in this paper, I'll try to write more in the next few days. 
 
 # Teaching
 

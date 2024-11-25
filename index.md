@@ -8,9 +8,9 @@ layout: default
 
 This website is by no means complete, I'll keep working on it but it's an exciting project for me. 
 
-I'm Daniela and I'm from Colombia. I do a PhD in experimental quantum optics and I guess I say this first because the PhD is what takes most of my time. 
+I'm Daniela and I'm from Colombia. I recently finished my PhD in experimental quantum optics.
 
-I also work as a high school teacher for grade 12. I teach physics to a small group of amazing kids. 
+I also worked as a high school teacher for grade 12 for two years. I taught physics to a small group of amazing kids. 
 
 I love sports and music. Cycling, swimming, running. Playing the guitar and singing. 
 
@@ -28,6 +28,24 @@ When a particle of light (a photon) travels through a cloud of atoms, it will me
 
 ![Schematics](/assets/images/setup.png)
 **Experiment:** Cartoon view of my experiment. 
+
+I have now a more complete summary of my research. This summary is written for a physics undergrad or related fields. 
+
+> Why does light slow down in glass? This is a deep question about how light interacts with matter. The short answer is that when a wave encounters an insulating material, the atoms respond to the wave by vibrating. These oscillations of charged particles generate new waves, which, when combined with the incident wave, cause the overall wave to move more slowly.
+>
+>But light is made up of photons. So, what exactly are these photons doing inside the material that results in this delay?
+>
+>Although physicists tend to not take this picture too seriously, some might wonder if the delay happens because photons occasionally get absorbed by atoms and are later re-emitted. Does the photon spend some time "inside" the atom? If so, how long? And is this time equal to the total delay experienced by the light wave?
+>
+>To explore these questions, we need to dive into quantum mechanics. To talk about the value of an observable quantity, we have to imagine that there's some interaction with an probe system that can measure that quantity. In our experiment, we measured how long atoms stayed in an excited state, given that a photon passed through and was detected on the far side of the atom cloud. We did this by introducing an auxiliary beam that weakly interacts with the atoms, experiencing a phase shift proportional to the atomic excitation caused by the single photon. This approach let us probe the system gently, though at the cost of only gathering small amounts of information per trial.
+>
+>What we discovered is both surprising and fascinating: transmitted photons seem to cause atoms to spend positive, zero, or even negative time in the excited state. Even more remarkably, we confirmed that this excitation time matches the group delay—a concept in optics that describes how much a pulse of light is delayed while propagating through a medium.
+>
+>So, what’s going on? Does time run backward? Is special relativity in danger? The answer is no—time is not running backward, and the laws of physics, including that no signal can travel faster than the speed of light in vacuum, remain intact. The key lies in the nature of our measurement. Because it is a weak measurement and one that only accounts for transmitted photons, ignoring scattered ones, unusual outcomes can happen.
+>
+>Our measuring device was intentionally noisy to avoid disturbing the system. This imprecision makes it impossible to tell if a photon was transmitted by passing straight through the cloud without interacting with the atoms, or by briefly exciting an atom and being re-emitted in the same direction. As a result, the auxiliary beam ends up in a quantum superposition: part of it showing no time spent in the atom and another part showing a small positive time. The negative result emerges from destructive interference between these two components, imaging taking "zero" minus "something positive.” You can also think of it as constructive interference in regions where results are normally forbidden and destructive interference where they are allowed.
+>
+>This experiment gives us new insights into the interaction between light and matter, offering a glimpse into the history of transmitted photons. We’ve shown that group delay not only tells us where the center of a light pulse is located but also accurately describes the magnitude—and even the sign—of the effect transmitted photons have on the atoms they interact with.
 
 ### Creating multimode non-Gaussian states
 

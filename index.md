@@ -17,9 +17,9 @@ I love sports and music. Cycling, swimming, running. Playing the guitar and sing
 # Research topics explained
 As a I said, I devote a lot of my time to studying quantum optics. I'll use this section to tell you about some research topics that interest me or my own research. 
 
-In our research group, we have to present a paper of our choice every three months or so to the rest of the group (journal club). I work with atoms and photons but photons are my biggest love so I usually take those presentations as an opportunity to talk about photonics research. 
+In our research group, we had to present a paper of our choice every three months or so to the rest of the group (journal club). I work with atoms and photons but photons are my biggest love so I usually take those presentations as an opportunity to talk about photonics research. 
 
-I must say that I used to have a lot of difficulties with these presentations for the first two years of my PhD. I wasn't able to grasp the big ideas of the subjects and didn't exactly know what questions to ask to clarify the things I didn't understand. But now I've got much better at it and my prof even said how impressed he was with the pedagogical angle of my presentations. According to him, I was raising interesting questions and forcing the audience to think. 
+I must say that I used to have a lot of difficulties with these presentations for the first two years of my PhD. I wasn't able to grasp the big ideas of the subjects and didn't exactly know what questions to ask to clarify the things I didn't understand. But I've got sooo much better at it and my prof even said how impressed he was with the pedagogical angle of my presentations. According to him, I was raising interesting questions and forcing the audience to think. 
 
 
 ### How much time do photons spend in the excited state? (my thing)
@@ -29,7 +29,7 @@ When a particle of light (a photon) travels through a cloud of atoms, it will me
 ![Schematics](/assets/images/setup.png)
 **Experiment:** Cartoon view of my experiment. 
 
-I have now a more complete summary of my research. This summary is written for a physics undergrad or related fields. 
+I have now a more complete summary of my research and check out the arxiv version of the <a href="https://arxiv.org/abs/2409.03680">experimental paper</a>. This summary is written for a physics or related fields students. 
 
 > Why does light slow down in glass? This is a deep question about how light interacts with matter. The short answer is that when a wave encounters an insulating material, the atoms respond to the wave by vibrating. These oscillations of charged particles generate new waves, which, when combined with the incident wave, cause the overall wave to move more slowly.
 >

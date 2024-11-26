@@ -45,7 +45,7 @@ I have now a more complete summary of my research and check out the arxiv versio
 >
 >Our measuring device was intentionally noisy to avoid disturbing the system. This imprecision makes it impossible to tell if a photon was transmitted by passing straight through the cloud without interacting with the atoms, or by briefly exciting an atom and being re-emitted in the same direction. As a result, the auxiliary beam ends up in a quantum superposition: part of it showing no time spent in the atom and another part showing a small positive time. The negative result emerges from destructive interference between these two components, imaging taking "zero" minus "something positive.” You can also think of it as constructive interference in regions where results are normally forbidden and destructive interference where they are allowed.
 >
-<img src="/assets/images/popsum2.jpg" alt="gaussians" class="center"> 
+<img src="/assets/images/popsum2.png" alt="gaussians" class="center"> 
 
 >This experiment gives us new insights into the interaction between light and matter, offering a glimpse into the history of transmitted photons. We’ve shown that group delay not only tells us where the center of a light pulse is located but also accurately describes the magnitude—and even the sign—of the effect transmitted photons have on the atoms they interact with.
 

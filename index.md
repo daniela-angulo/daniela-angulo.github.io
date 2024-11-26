@@ -10,9 +10,11 @@ Disclaimer: This website is by no means complete, I am working on it.
 
 I'm Daniela Angulo and I'm from Colombia. I recently finished my PhD in experimental quantum optics. I also worked as a high school teacher for grade 12 for two years. I taught physics to a small group of amazing kids. I love sports and music. Cycling, swimming, running. Playing the guitar and singing. 
 
+After my PhD, I started working as a postdoc for the same group but switched fields. Now I am working in the photons side of my lab in projects about quantum metrology and quantum foundations. 
+
 Check out this <a href="https://www.youtube.com/watch?v=8QJ0atPx-Qc">interview </a>  I gave to Q-Site as part of their series "Quantum walk Wednesday".
 
-# Research topics explained
+# Quantum physics
 I devote a lot of my time to studying quantum optics and quantum information. I'll use this section to tell you about some research topics that interest me or my own research. 
 
 In our research group, we had to present a paper of our choice every three months or so to the rest of the group (journal club). I work with atoms and photons but photons are my biggest love so I usually used those presentations as an opportunity to talk about photonics research. 
@@ -63,12 +65,13 @@ If you are more into posters, here is a poster that I made to present my work at
 
 ![Poster](/assets/images/CEWQOP_2023_Poster.jpg)
 
-## Creating multimode non-Gaussian states
+## Quantum State Tomography: hidden degrees of freedom
 
-Ahh! Such beautiful work!
-They generate non-Gaussian states by applying the anhilation operator to a single mode of their complicated multimode state (generated with a frequency comb). They can remove a single photon in a mode-selective manner. 
+This work shows that one can quantify and see the effect of distinguishability in multiparticle photon states. This distinguishing information is encoded in hidden degrees of freedom. The example used by the paper is reconstructing the state of two photons in polarization but can have distinguishing information in the spectro-temporal modes. The visible degree of freedom will be polarization and the hidden one is arrival times.  
 
-There is a lot to unpack in this paper, I'll try to write more in the next few days. 
+They show that you can infer there is distinguishing information in arrival times by making tomographich measurements in polarization. The key idea behind this is that the density matrix for the visible degree of freedom contains no coherences between the symmetric and antisymmetric subspaces. For two photons in polarization, it is written as a diagonal block matrix with a 3x3 representing the symmetric subspace and a single element for the single state. 
+
+An example to show the usefulness of this method is to consider a known polarization state (like HV) and reconstruct the visible density matrix for when the photons are indistiguishable. Then introduce a time delay greater than the coherence length of the photons and reconstruct the density matrix. They observed that in the first case, all the population is concentrated in the symmetric subspace (3x3 matrix), but when the delay is introduced, the singlet state subspace. 
 
 # Teaching
 

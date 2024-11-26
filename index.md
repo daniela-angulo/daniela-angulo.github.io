@@ -6,20 +6,16 @@ layout: default
 -->
 # What do I do? Who am I? 
 
-This website is by no means complete, I'll keep working on it but it's an exciting project for me. 
+Disclaimer: This website is by no means complete, I am working on it.
 
-I'm Daniela and I'm from Colombia. I recently finished my PhD in experimental quantum optics.
+I'm Daniela Angulo and I'm from Colombia. I recently finished my PhD in experimental quantum optics. I also worked as a high school teacher for grade 12 for two years. I taught physics to a small group of amazing kids. I love sports and music. Cycling, swimming, running. Playing the guitar and singing. 
 
-I also worked as a high school teacher for grade 12 for two years. I taught physics to a small group of amazing kids. 
-
-I love sports and music. Cycling, swimming, running. Playing the guitar and singing. 
-
-Check out this <a href="https://www.youtube.com/watch?v=8QJ0atPx-Qc">interview </a>  I gave to Q-Site as part of the series "Quantum walk Wednesday"
+Check out this <a href="https://www.youtube.com/watch?v=8QJ0atPx-Qc">interview </a>  I gave to Q-Site as part of their series "Quantum walk Wednesday".
 
 # Research topics explained
-As a I said, I devote a lot of my time to studying quantum optics. I'll use this section to tell you about some research topics that interest me or my own research. 
+As a I said, I devote a lot of my time to studying quantum optics and quantum information. I'll use this section to tell you about some research topics that interest me or my own research. 
 
-In our research group, we had to present a paper of our choice every three months or so to the rest of the group (journal club). I work with atoms and photons but photons are my biggest love so I usually take those presentations as an opportunity to talk about photonics research. 
+In our research group, we had to present a paper of our choice every three months or so to the rest of the group (journal club). I work with atoms and photons but photons are my biggest love so I usually used those presentations as an opportunity to talk about photonics research. 
 
 I must say that I used to have a lot of difficulties with these presentations for the first two years of my PhD. I wasn't able to grasp the big ideas of the subjects and didn't exactly know what questions to ask to clarify the things I didn't understand. But I've got sooo much better at it and my prof even said how impressed he was with the pedagogical angle of my presentations. According to him, I was raising interesting questions and forcing the audience to think. 
 
@@ -35,7 +31,7 @@ I have now a more complete summary of my research and check out the arxiv versio
 
 > Why does light slow down in glass? This is a deep question about how light interacts with matter. The short answer is that when a wave encounters an insulating material, the atoms respond to the wave by vibrating. These oscillations of charged particles generate new waves, which, when combined with the incident wave, cause the overall wave to move more slowly.
 >
- <img src="/assets/images/meme.jpg" alt="Paris" class="center"> 
+<img src="/assets/images/meme.jpg" alt="Meme" class="center"> 
 
 >But light is made up of photons. So, what exactly are these photons doing inside the material that results in this delay?
 >
@@ -49,6 +45,8 @@ I have now a more complete summary of my research and check out the arxiv versio
 >
 >Our measuring device was intentionally noisy to avoid disturbing the system. This imprecision makes it impossible to tell if a photon was transmitted by passing straight through the cloud without interacting with the atoms, or by briefly exciting an atom and being re-emitted in the same direction. As a result, the auxiliary beam ends up in a quantum superposition: part of it showing no time spent in the atom and another part showing a small positive time. The negative result emerges from destructive interference between these two components, imaging taking "zero" minus "something positive.” You can also think of it as constructive interference in regions where results are normally forbidden and destructive interference where they are allowed.
 >
+<img src="/assets/images/popsum2.jpg" alt="gaussians" class="center"> 
+
 >This experiment gives us new insights into the interaction between light and matter, offering a glimpse into the history of transmitted photons. We’ve shown that group delay not only tells us where the center of a light pulse is located but also accurately describes the magnitude—and even the sign—of the effect transmitted photons have on the atoms they interact with.
 
 ### Controversy around "negative" times
@@ -67,9 +65,11 @@ There is a lot to unpack in this paper, I'll try to write more in the next few d
 
 # Teaching
 
-### Statement of Teaching Philosophy
+I love teaching. I love the challenge of trying to understand something so well that you are able to explain it to all kinds of audiences with clarity. 
 
-I wrote this for a course about Teaching in higher education I took at the University. It reflects my believes and approach to teaching in a classroom. 
+During my PhD, I was a teaching assistant (TA) for several courses. My favorite were Introduction to quantum physics and Introductory optics. I wrote python scripts to illustrate some of the subjects that we studied. Check the repositories for the demos in my <a href="https://github.com/daniela-angulo">github</a>. 
+
+### Statement of Teaching Philosophy
 
 > Physics, like every science, is a communal practice. One can start by observing a phenomenon, proposing a set of explanations, and testing them experimentally, usually in collaboration with other people. Even if one could manage to do the testing and experimenting alone, the results and conclusions still need to be communicated to and accepted by a big part of the scientific community to be considered valid. I think the communal character of science should be a key part of teaching physics. 
 >

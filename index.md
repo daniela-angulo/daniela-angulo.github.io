@@ -14,6 +14,8 @@ I also worked as a high school teacher for grade 12 for two years. I taught phys
 
 I love sports and music. Cycling, swimming, running. Playing the guitar and singing. 
 
+Check out this <a href="https://www.youtube.com/watch?v=8QJ0atPx-Qc">interview </a>  I gave to Q-Site as part of the series "Quantum walk Wednesday"
+
 # Research topics explained
 As a I said, I devote a lot of my time to studying quantum optics. I'll use this section to tell you about some research topics that interest me or my own research. 
 
@@ -33,6 +35,8 @@ I have now a more complete summary of my research and check out the arxiv versio
 
 > Why does light slow down in glass? This is a deep question about how light interacts with matter. The short answer is that when a wave encounters an insulating material, the atoms respond to the wave by vibrating. These oscillations of charged particles generate new waves, which, when combined with the incident wave, cause the overall wave to move more slowly.
 >
+![Meme](/assets/images/meme.png)
+
 >But light is made up of photons. So, what exactly are these photons doing inside the material that results in this delay?
 >
 >Although physicists tend to not take this picture too seriously, some might wonder if the delay happens because photons occasionally get absorbed by atoms and are later re-emitted. Does the photon spend some time "inside" the atom? If so, how long? And is this time equal to the total delay experienced by the light wave?
@@ -46,6 +50,13 @@ I have now a more complete summary of my research and check out the arxiv versio
 >Our measuring device was intentionally noisy to avoid disturbing the system. This imprecision makes it impossible to tell if a photon was transmitted by passing straight through the cloud without interacting with the atoms, or by briefly exciting an atom and being re-emitted in the same direction. As a result, the auxiliary beam ends up in a quantum superposition: part of it showing no time spent in the atom and another part showing a small positive time. The negative result emerges from destructive interference between these two components, imaging taking "zero" minus "something positive.” You can also think of it as constructive interference in regions where results are normally forbidden and destructive interference where they are allowed.
 >
 >This experiment gives us new insights into the interaction between light and matter, offering a glimpse into the history of transmitted photons. We’ve shown that group delay not only tells us where the center of a light pulse is located but also accurately describes the magnitude—and even the sign—of the effect transmitted photons have on the atoms they interact with.
+
+### Controversy around "negative" times
+
+The title of our arxiv paper is <b>Experimental evidence that a photon can spend a negative amount of time in an atom cloud</b>. The paper drew a lot of attention, but also sparked considerable controversy for understandable reasons. 
+
+Scientific American wrote an <a href="https://www.scientificamerican.com/article/evidence-of-negative-time-found-in-quantum-physics-experiment/">article</a> about it. We were even featured in one of Sabine Hofsteder's  <a href="https://www.youtube.com/watch?v=ErLHm-1c6I4">videos</a>. Watch the video and try to spot her mistake around the 3:30 mark. 
+
 
 ### Creating multimode non-Gaussian states
 

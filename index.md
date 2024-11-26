@@ -35,7 +35,7 @@ I have now a more complete summary of my research and check out the arxiv versio
 
 > Why does light slow down in glass? This is a deep question about how light interacts with matter. The short answer is that when a wave encounters an insulating material, the atoms respond to the wave by vibrating. These oscillations of charged particles generate new waves, which, when combined with the incident wave, cause the overall wave to move more slowly.
 >
-![Meme](/assets/images/meme.jpg)
+ <img src="/assets/images/meme.jpg" alt="Paris" class="center"> 
 
 >But light is made up of photons. So, what exactly are these photons doing inside the material that results in this delay?
 >

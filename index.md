@@ -13,7 +13,7 @@ I'm Daniela Angulo and I'm from Colombia. I recently finished my PhD in experime
 Check out this <a href="https://www.youtube.com/watch?v=8QJ0atPx-Qc">interview </a>  I gave to Q-Site as part of their series "Quantum walk Wednesday".
 
 # Research topics explained
-As a I said, I devote a lot of my time to studying quantum optics and quantum information. I'll use this section to tell you about some research topics that interest me or my own research. 
+I devote a lot of my time to studying quantum optics and quantum information. I'll use this section to tell you about some research topics that interest me or my own research. 
 
 In our research group, we had to present a paper of our choice every three months or so to the rest of the group (journal club). I work with atoms and photons but photons are my biggest love so I usually used those presentations as an opportunity to talk about photonics research. 
 
@@ -55,6 +55,11 @@ The title of our arxiv paper is <b>Experimental evidence that a photon can spend
 
 Scientific American wrote an <a href="https://www.scientificamerican.com/article/evidence-of-negative-time-found-in-quantum-physics-experiment/">article</a> about it. We were even featured in one of Sabine Hofsteder's  <a href="https://www.youtube.com/watch?v=ErLHm-1c6I4">videos</a>. Watch the video and try to spot her mistake around the 3:30 mark. 
 
+One could argue both for and against the title being labeled as 'clickbait.' While it is true that the photon didn’t literally spend a negative amount of time inside the atom or travel backward in time, the experimental result did yield a negative number. Specifically, the quantum "watch" we designed measured a negtive time, which supports the title's claim. For this reason, while provocative, the title cannot be entirely dismissed as clickbait.
+
+If you are more into posters, here is a poster that I made to present my work at a conference in Milan in 2023. 
+
+![Poster](/assets/images/CEWQOP_2023_Poster.jpg)
 
 ### Creating multimode non-Gaussian states
 
@@ -71,7 +76,7 @@ During my PhD, I was a teaching assistant (TA) for several courses. My favorite 
 
 ### Statement of Teaching Philosophy
 
-> Physics, like every science, is a communal practice. One can start by observing a phenomenon, proposing a set of explanations, and testing them experimentally, usually in collaboration with other people. Even if one could manage to do the testing and experimenting alone, the results and conclusions still need to be communicated to and accepted by a big part of the scientific community to be considered valid. I think the communal character of science should be a key part of teaching physics. 
+>Physics, like every science, is a communal practice. One can start by observing a phenomenon, proposing a set of explanations, and testing them experimentally, usually in collaboration with other people. Even if one could manage to do the testing and experimenting alone, the results and conclusions still need to be communicated to and accepted by a big part of the scientific community to be considered valid. I think the communal character of science should be a key part of teaching physics. 
 >
 >When students come to class, they bring ideas, preconceptions and all their cultural background. They perceive the information with their senses and interpret it to form a mental image of a concept. I can not possibly tell if their mental image matches the one I am aiming to communicate but I can try to be as clear as possible conveying the fundamentals and creating consensus in the class. That clarity requires that I present information using different approaches to give everyone the opportunity to feel comfortable with their learning preferences; I could use a case study based on a real-life example, an experimental demonstration in class, or computer demonstrations. The students ultimately build their own knowledge and I have to make sure I provide all the tools for them to become active agents in their learning process; not to consume knowledge but to create their own. For this purpose, I include multiple means of engagement and assessment; online education has called my attention to tools like polls, discussion boards, interactive simulations and collective documents that I use to foster collaborative interactions among students. Regarding assessment, I combine traditional approaches along with open ended problems and exploratory projects that do not have a unique answer so students can experience a research-type activity and have freedom to pursue personal interests without feeling pressured about grading. 
 >

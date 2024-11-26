@@ -57,7 +57,9 @@ Scientific American wrote an <a href="https://www.scientificamerican.com/article
 
 One could argue both for and against the title being labeled as 'clickbait.' While it is true that the photon didn’t literally spend a negative amount of time inside the atom or travel backward in time, the experimental result did yield a negative number. Specifically, the quantum "watch" we designed measured a negtive time, which supports the title's claim. For this reason, while provocative, the title cannot be entirely dismissed as clickbait.
 
-If you are more into posters, here is a poster that I made to present my work at a conference in Milan in 2023. 
+### Poster
+
+If you are more into posters, here is a poster that I made to present my work at a conference in Milan in 2023. I even won an award for it.
 
 ![Poster](/assets/images/CEWQOP_2023_Poster.jpg)
 

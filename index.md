@@ -20,7 +20,7 @@ In our research group, we had to present a paper of our choice every three month
 I must say that I used to have a lot of difficulties with these presentations for the first two years of my PhD. I wasn't able to grasp the big ideas of the subjects and didn't exactly know what questions to ask to clarify the things I didn't understand. But I've got sooo much better at it and my prof even said how impressed he was with the pedagogical angle of my presentations. According to him, I was raising interesting questions and forcing the audience to think. 
 
 
-### How much time do photons spend in the excited state? (my thing)
+## How much time do photons spend in the excited state? (my thing)
 
 When a particle of light (a photon) travels through a cloud of atoms, it will meet one of two fates: either it will be transmitted through the cloud, or it will be absorbed by an atom, exciting it, and subsequently 'ejected' in a random direction when the atom decays to its ground state (de-excitation). It is straightforward to calculate how often photons are 'lost' in this way, and one can even calculate how long the average photon spends 'inside' an atom. An interesting question arises in this scenario: does the time that a photon spends inside an atom depend on its eventual fate? In other words, if a photon passes through a cloud of atoms without being lost, should we conclude that it never interacted with an atom, and therefore spent no time as an atomic excitation? This question turns out to be surprisingly challenging to answer theoretically as it entails discussing the 'history' of a quantum particle. However, we decided to take an experimental approach and perform the first experiment to measure the time that a transmitted photon spends as an atomic excitation.
 
@@ -63,7 +63,7 @@ If you are more into posters, here is a poster that I made to present my work at
 
 ![Poster](/assets/images/CEWQOP_2023_Poster.jpg)
 
-### Creating multimode non-Gaussian states
+## Creating multimode non-Gaussian states
 
 Ahh! Such beautiful work!
 They generate non-Gaussian states by applying the anhilation operator to a single mode of their complicated multimode state (generated with a frequency comb). They can remove a single photon in a mode-selective manner. 

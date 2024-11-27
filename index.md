@@ -12,7 +12,6 @@ I'm Daniela Angulo and I'm from Colombia. I recently finished my PhD in experime
 
 After my PhD, I started working as a postdoc for the same group but switched fields. Now I am working in the photons side of my lab in projects about quantum metrology and quantum foundations. 
 
-Check out this <a href="https://www.youtube.com/watch?v=8QJ0atPx-Qc">interview </a>  I gave to Q-Site as part of their series "Quantum walk Wednesday".
 
 # Quantum physics
 I devote a lot of my time to studying quantum optics and quantum information. I'll use this section to tell you about some research topics that interest me or my own research. 
